@@ -1,0 +1,9 @@
+#logo{
+    height:60px;
+    width :250px;
+    margin: 5px;
+    user-select: none;
+  }
+  img{
+      user-select: none;
+  }
